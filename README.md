@@ -9,6 +9,7 @@
 - [Saez-Rodriguez Group](https://saezlab.org/?#research)
 - [X. Shirley Liu lab](https://liulab-dfci.github.io/software/)
 - [Ma'ayan lab](https://labs.icahn.mssm.edu/maayanlab/research/)
+- [Tommy tweet](https://threadreaderapp.com/thread/1805960457867624513.html)
   
 ## P-value distribution issue
 - Genes with low counts interfere with the p-value distribution, so removing those genes and re-observe the distribution. [Ref](https://divingintogeneticsandgenomics.com/post/downstream-of-bulk-rnaseq-read-in-salmon-output-using-tximport-and-then-deseq2/)
